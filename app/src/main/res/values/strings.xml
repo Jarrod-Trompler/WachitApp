@@ -1,0 +1,21 @@
+<resources>
+    <!-- LOGIN / REGISTER -->
+    <string name="app_name">Wachit</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- BOTTOM_NAVIGATION BAR -->
+    <string name="text_home">Home Fragment</string>
+    <string name="text_notifications">Notifications Fragment</string>
+    <string name="text_search">Search Fragment</string>
+    <string name="text_hot">Hot Fragment</string>
+    <string name="text_user">User Fragment</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_hot">Hot</string>
+    <string name="menu_user">User</string>
+
+</resources>
